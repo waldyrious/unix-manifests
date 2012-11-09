@@ -3,10 +3,16 @@ unix-manifests
 
 Attempt at maintaining an updated list of [manifest files](http://en.wikipedia.org/wiki/Manifest_file)
 for popular Unix-like operating systems.
-
 This list can be useful for tools to automatically calculate the (default) install base of a given software package.
 
-For now, only the i386 architecture is included; others can be derived from it.
+For now, only the i386 architecture is included;
+the patterns in the location and filename should be enough to infer the location
+of the other architectures' manifest files.
+
+**Legend:**
+* ![text][]: text file
+* ![archive][]: compressed text file (download and uncompress)
+* ![in-cd][]: ISO CD image (donwload and mount/extract; path of manifest file is on the link text)
 
 ### **UNIX**
 
@@ -56,11 +62,12 @@ For now, only the i386 architecture is included; others can be derived from it.
 
 [debian]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.6-i386-DVD-1.list.gz
 [ubuntu]: http://releases.ubuntu.com/precise/ubuntu-12.04.1-desktop-i386.manifest
-[mint]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
+[mint]: http://www.linuxmint.com/edition.php?id=103
+[mint-bt]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
 
-[text]: http://upload.wikimedia.org/wikipedia/commons/7/75/Page_white.png
-[archive]: http://upload.wikimedia.org/wikipedia/commons/d/d2/Page_white_zip.png "gzip archive"
-[in-cd]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Page_white_cd.png
+[text]: http://upload.wikimedia.org/wikipedia/commons/7/75/Page_white.png "text file"
+[archive]: http://upload.wikimedia.org/wikipedia/commons/d/d2/Page_white_zip.png "compressed text file"
+[in-cd]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Page_white_cd.png "cd image"
 
 ----
 1. Debian includes ALL packages in its distribution.
