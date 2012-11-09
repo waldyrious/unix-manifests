@@ -2,7 +2,7 @@ unix-manifests
 ===============
 
 Attempt at maintaining an updated list of [manifest files](http://en.wikipedia.org/wiki/Manifest_file)
-for popular Unix-like operating systems.
+(lists of all packages included in the distribution<sup>[1]</sup>) for popular Unix-like operating systems.
 This list can be useful for tools to automatically calculate the (default) install base of a given software package.
 
 For now, only the i386 architecture is included;
@@ -18,7 +18,7 @@ of the other architectures' manifest files.
 
 > ### **Linux**
 
-> > _**Debian**_<sup>[1]</sup>: [debian-6.0.6-i386-DVD-1.list][debian] ![.gz][archive]
+> > _**Debian**_<sup>[2]</sup>: [debian-6.0.6-i386-DVD-1.list][debian] ![.gz][archive]
 
 > > > Ubuntu: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu] ![.manifest][text]
 
@@ -70,9 +70,12 @@ of the other architectures' manifest files.
 [in-cd]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Page_white_cd.png "cd image"
 
 ----
-1. Debian includes ALL packages in its distribution.
+1. [These commands](http://www.datadisk.co.uk/html_docs/misc/unix_commands.htm#patch) could potentially work
+   as an alternative, but first, I don't know how to make them display only non-user-installed packages,
+   and second, one would need to have access to a instance of each system above to run those commands.
+2. Debian includes ALL packages in its distribution.
    This means that the full Debian 6 fills over 50 CDs, or 8 DVDs.
    However, since they're ordered by popularity, often only the first CD or DVD is recommended for a first install.
    Here the first DVD will be considered a "standard install" of Debian.
    Note: The only medium that holds the whole thing in a single physical unit
-   is a double-layer Blu-ray disc (DLBD). 
+   is a double-layer Blu-ray disc (DLBD).
