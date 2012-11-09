@@ -12,14 +12,11 @@ For now, only the i386 architecture is included; others can be derived from it.
 
 > ### **Linux**
 
-> > _**Debian**_:
-[debian-6.0.6-i386-DLBD-1.list][deb-all] (everything) |
-[debian-6.0.6-i386-DVD-1.list][deb-dvd] (first DVD) |
-[debian-6.0.6-i386-CD-1.list][deb-cd] (first CD)
+> > _**Debian**_<sup>[1]</sup>: [debian-6.0.6-i386-DVD-1.list][debian] ![.gz][archive]
 
-> > > Ubuntu: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu]
+> > > Ubuntu: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu] ![.manifest][text]
 
-> > > > Mint
+> > > > Mint: [casper/filesystem.manifest][mint] ![.manifest][in-cd]
 
 > > > Knoppix
 
@@ -57,7 +54,18 @@ For now, only the i386 architecture is included; others can be derived from it.
 
 > > > OpenBSD
 
-[deb-all]: http://cdimage.debian.org/debian-cd/current/i386/list-dlbd/debian-6.0.6-i386-DLBD-1.list.gz
-[deb-dvd]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.6-i386-DVD-1.list.gz
-[deb-cd]: http://cdimage.debian.org/debian-cd/current/i386/list-cd/debian-6.0.6-i386-CD-1.list.gz
+[debian]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.6-i386-DVD-1.list.gz
 [ubuntu]: http://releases.ubuntu.com/precise/ubuntu-12.04.1-desktop-i386.manifest
+[mint]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
+
+[text]: http://upload.wikimedia.org/wikipedia/commons/7/75/Page_white.png
+[archive]: http://upload.wikimedia.org/wikipedia/commons/d/d2/Page_white_zip.png "gzip archive"
+[in-cd]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Page_white_cd.png
+
+----
+1. Debian includes ALL packages in its distribution.
+   This means that the full Debian 6 fills over 50 CDs, or 8 DVDs.
+   However, since they're ordered by popularity, often only the first CD or DVD is recommended for a first install.
+   Here the first DVD will be considered a "standard install" of Debian.
+   Note: The only medium that holds the whole thing in a single physical unit
+   is a double-layer Blu-ray disc (DLBD). 
