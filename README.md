@@ -26,7 +26,7 @@ of the other architectures' manifest files.
 
 > > > Knoppix
 
-> > _**SlackWare**_
+> > _**Slackware**_
 
 > > > OpenSUSE 
 
