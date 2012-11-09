@@ -17,7 +17,7 @@ For now, only the i386 architecture is included; others can be derived from it.
 [debian-6.0.6-i386-DVD-1.list][deb-dvd] (first DVD) |
 [debian-6.0.6-i386-CD-1.list][deb-cd] (first CD)
 
-> > > Ubuntu
+> > > Ubuntu: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu]
 
 > > > > Mint
 
@@ -60,3 +60,4 @@ For now, only the i386 architecture is included; others can be derived from it.
 [deb-all]: http://cdimage.debian.org/debian-cd/current/i386/list-dlbd/debian-6.0.6-i386-DLBD-1.list.gz
 [deb-dvd]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.6-i386-DVD-1.list.gz
 [deb-cd]: http://cdimage.debian.org/debian-cd/current/i386/list-cd/debian-6.0.6-i386-CD-1.list.gz
+[ubuntu]: http://releases.ubuntu.com/precise/ubuntu-12.04.1-desktop-i386.manifest
