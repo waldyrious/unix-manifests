@@ -71,7 +71,8 @@ of the other architectures' manifest files.
 
 ----
 1. [These commands](http://www.datadisk.co.uk/html_docs/misc/unix_commands.htm#patch) could potentially work
-   as an alternative, but first, I don't know how to make them display only non-user-installed packages,
+   as an alternative, but first, I don't know how to make them display only non-user-installed packages (update: check 
+   [/var/log/installer/initial-status.gz](http://superuser.com/questions/48374/find-all-user-installed-packages)),
    and second, one would need to have access to a instance of each system above to run those commands.
 2. Debian includes ALL packages in its distribution.
    This means that the full Debian 6 fills over 50 CDs, or 8 DVDs.
