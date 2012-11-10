@@ -20,9 +20,9 @@ of the other architectures' manifest files.
 
 > > _**Debian**_<sup>[2]</sup>: [debian-6.0.6-i386-DVD-1.list][debian] ![.gz][archive]
 
-> > > Ubuntu: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu]<sup>[3]</sup> ![.manifest][text]
+> > > Ubuntu<sup>[3]</sup> : [ubuntu-12.04.1-desktop-i386.manifest][ubuntu]![.manifest][text]
 
-> > > > Mint: [casper/filesystem.manifest][mint]<sup>[4]</sup> ![.manifest][in-cd]
+> > > > Mint<sup>[4]</sup>: [casper/filesystem.manifest][mint] ![.manifest][in-cd]
 
 > > > Knoppix
 
