@@ -20,9 +20,9 @@ of the other architectures' manifest files.
 
 > > _**Debian**_<sup>[2]</sup>: [debian-6.0.6-i386-DVD-1.list][debian] ![.gz][archive]
 
-> > > Ubuntu: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu] ![.manifest][text]
+> > > Ubuntu: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu]<sup>[3]</sup> ![.manifest][text]
 
-> > > > Mint: [casper/filesystem.manifest][mint] ![.manifest][in-cd]
+> > > > Mint: [casper/filesystem.manifest][mint]<sup>[4]</sup> ![.manifest][in-cd]
 
 > > > Knoppix
 
@@ -79,3 +79,8 @@ of the other architectures' manifest files.
    Here the first DVD will be considered a "standard install" of Debian.
    Note: The only medium that holds the whole thing in a single physical unit
    is a double-layer Blu-ray disc (DLBD).
+3. A small number of the the packages listed here are removed after the instalation;
+   see [here](http://askubuntu.com/questions/50077/how-to-get-a-list-of-preinstalled-packages#comment55698_50127).
+4. A small number of the the packages listed here are removed after the instalation;
+   Probably the final list is contained in the (binary) file `casper/filesystem.manifest-desktop` instead.
+   Can anyone confirm this?
