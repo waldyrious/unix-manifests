@@ -92,3 +92,8 @@ of the other architectures' manifest files.
 4. A small number of the the packages listed here are removed after the instalation;
    Probably the final list is contained in the (binary) file `casper/filesystem.manifest-desktop` instead.
    Can anyone confirm this?
+
+----
+Credits:
+* Project icon derived from Windows 8 icons collection: http://icons8.com (CC-BY)
+* File icons from Silk icon set: (CC-BY)
