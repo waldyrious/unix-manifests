@@ -1,9 +1,16 @@
 unix-manifests
 ===============
 
-Attempt at maintaining an updated list of [manifest files](http://en.wikipedia.org/wiki/Manifest_file)
+The goal of this project is to maintain an updated list of [manifest files](http://en.wikipedia.org/wiki/Manifest_file)
 (lists of all packages included in the distribution<sup>[1]</sup>) for popular Unix-like operating systems.
-This list can be useful for tools to automatically calculate the (default) install base of a given software package.
+
+This list can be useful for various purposes; for example:
+* as a resource for dependency management:
+  a software project can use it to calculate the (default) install base of a given software package
+  so that it can choose the dependencies that most people are likely to already have installed.
+* as a starting point for standardization efforts regarding distribution manifest files,
+  leading to greater transparency and user-friendliness.
+* as a tool for choosing a distribution that commits to support/maintain the packages one is interested in.
 
 For now, only the i386 architecture is included;
 the patterns in the location and filename should be enough to infer the location
