@@ -19,7 +19,8 @@ of the other architectures' manifest files.
 **Legend:**
 * ![text][]: text file
 * ![archive][]: compressed text file (download and uncompress)
-* ![in-cd][]: ISO CD image (donwload and mount/extract; path of manifest file is on the link text)
+* ![in-cd][]: ISO CD image (donwload and mount/extract; path of manifest file is on the link text)  
+<sub>[Images from Silk icon set: www.famfamfam.com/lab/icons/silk/ (CC-BY)]</sub>
 
 ### **UNIX**
 
@@ -72,6 +73,7 @@ of the other architectures' manifest files.
 [mint]: http://www.linuxmint.com/edition.php?id=103
 [mint-bt]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
 
+[logo]: https://raw.github.com/waldir/unix-manifests/master/unix-manifests.png
 [text]: http://upload.wikimedia.org/wikipedia/commons/7/75/Page_white.png "text file"
 [archive]: http://upload.wikimedia.org/wikipedia/commons/d/d2/Page_white_zip.png "compressed text file"
 [in-cd]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Page_white_cd.png "cd image"
@@ -92,8 +94,3 @@ of the other architectures' manifest files.
 4. A small number of the the packages listed here are removed after the instalation;
    Probably the final list is contained in the (binary) file `casper/filesystem.manifest-desktop` instead.
    Can anyone confirm this?
-
-----
-Credits:
-* Project icon derived from Windows 8 icons collection: http://icons8.com (CC-BY)
-* File icons from Silk icon set: (CC-BY)
