@@ -85,10 +85,13 @@ of the other architectures' manifest files.
    and second, one would need to have access to a instance of each system above to run those commands.
 2. Debian includes ALL packages in its distribution.
    This means that the full Debian 6 fills over 50 CDs, or 8 DVDs.
-   However, since they're ordered by popularity, often only the first CD or DVD is recommended for a first install.
-   Here the first DVD will be considered a "standard install" of Debian.
-   Note: The only medium that holds the whole thing in a single physical unit
+   The only medium that holds the whole thing in a single physical unit
    is a double-layer Blu-ray disc (DLBD).
+   However, since the packages are ordered by popularity,
+   often only the first CD or DVD is recommended for a first install.
+   Here the first DVD will be considered a "standard install" of Debian.
+   The full list can be obtained from
+   [packages.debian.org/stable/allpackages](http://packages.debian.org/stable/allpackages?format=txt.gz).
 3. A small number of the the packages listed here are removed after the instalation;
    see [here](http://askubuntu.com/questions/50077/how-to-get-a-list-of-preinstalled-packages#comment55698_50127).
 4. A small number of the the packages listed here are removed after the instalation;
