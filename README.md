@@ -110,4 +110,5 @@ of the other architectures' manifest files.
    see [here](http://askubuntu.com/questions/50077/how-to-get-a-list-of-preinstalled-packages#comment55698_50127).
 4. A small number of the the packages listed here are removed after the instalation;
    Probably the final list is contained in the (binary) file `casper/filesystem.manifest-desktop` instead.
-   Can anyone confirm this?
+   Can anyone confirm this? Also, how does that list relate to
+   [this one](http://packages.linuxmint.com/list.php?release=Nadia#upstream)?
