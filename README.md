@@ -28,13 +28,14 @@ of the other architectures' manifest files.
 > ### **Linux**
 
 > > _**Debian**_<sup>[2]</sup>: [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive]
+                                [debian.org/distrib/packages#search_packages][debian-search] ![search]
 
 > > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
                             [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]
 
 > > > > Mint<sup>[4]</sup>: [casper/filesystem.manifest][mint] ![.manifest][in-cd] /
-                            [packages.linuxmint.com](http://packages.linuxmint.com/) ![search] ;
-                            [community.linuxmint.com/software/search/](http://community.linuxmint.com/software/search/) ![search]
+                            [packages.linuxmint.com][mint-search1] ![search] ;
+                            [community.linuxmint.com/software/search/][mint-search2] ![search]
 
 > > > Knoppix: [Packages.gz][knoppix] ![.gz][archive]
 
@@ -75,9 +76,12 @@ of the other architectures' manifest files.
 > > > OpenBSD
 
 [debian]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.7-i386-DVD-1.list.gz 
+[debian-search]: http://www.debian.org/distrib/packages#search_packages
 [ubuntu]: http://releases.ubuntu.com/precise/ubuntu-12.04.2-desktop-i386.manifest
 [mint]: http://www.linuxmint.com/edition.php?id=103
 [mint-bt]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
+[mint-search1]: http://packages.linuxmint.com/
+[mint-search2]: http://community.linuxmint.com/software/search/
 [knoppix]: http://debian-knoppix.alioth.debian.org/Packages.gz
 [slackware]: http://mirrors.slackware.com/slackware/slackware-current/PACKAGES.TXT
 [opensuse]: http://download.opensuse.org/
