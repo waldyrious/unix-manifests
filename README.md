@@ -26,9 +26,9 @@ of the other architectures' manifest files.
 
 > ### **Linux**
 
-> > _**Debian**_<sup>[2]</sup>: [debian-6.0.6-i386-DVD-1.list][debian] ![.gz][archive]
+> > _**Debian**_<sup>[2]</sup>: [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive]
 
-> > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu] ![.manifest][text]
+> > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text]
 
 > > > > Mint<sup>[4]</sup>: [casper/filesystem.manifest][mint] ![.manifest][in-cd]
 
@@ -68,7 +68,7 @@ of the other architectures' manifest files.
 
 > > > OpenBSD
 
-[debian]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.6-i386-DVD-1.list.gz
+[debian]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.7-i386-DVD-1.list.gz
 [ubuntu]: http://releases.ubuntu.com/precise/ubuntu-12.04.2-desktop-i386.manifest
 [mint]: http://www.linuxmint.com/edition.php?id=103
 [mint-bt]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
