@@ -34,7 +34,7 @@ of the other architectures' manifest files.
 
 > > > Knoppix: [Packages.gz][knoppix] ![.gz][archive]
 
-> > _**Slackware**_
+> > _**Slackware**_: [PACKAGES.TXT][slackware] ![.txt][text]
 
 > > > OpenSUSE: [download.opensuse.org][opensuse] (TODO: find the manifest and replace the link)
 
@@ -73,6 +73,7 @@ of the other architectures' manifest files.
 [mint]: http://www.linuxmint.com/edition.php?id=103
 [mint-bt]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
 [knoppix]: http://debian-knoppix.alioth.debian.org/Packages.gz
+[slackware]: http://mirrors.slackware.com/slackware/slackware-current/PACKAGES.TXT
 [opensuse]: http://download.opensuse.org/
 
 [logo]: https://raw.github.com/waldir/unix-manifests/master/unix-manifests.png
