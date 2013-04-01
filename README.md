@@ -27,7 +27,7 @@ of the other architectures' manifest files.
 
 > ### **Linux**
 
-> > _**Debian**_<sup>[2]</sup>: [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive]
+> > _**Debian**_<sup>[2]</sup>: [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive] /
                                 [debian.org/distrib/packages#search_packages][debian-search] ![search]
 
 > > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
