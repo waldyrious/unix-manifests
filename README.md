@@ -5,6 +5,8 @@ The goal of this project is to maintain an updated list of [manifest files](http
 (lists of all packages included in the distribution<sup>[1]</sup>) for popular Unix-like operating systems.
 
 This list can be useful for various purposes; for example:
+* as a starting point for the development of a multi-distibution package search app,
+  such as [this one](http://packages.slackware.com/) (only for Slackware).
 * as a resource for dependency management:
   a software project can use it to calculate the (default) install base of a given software package
   so that it can choose the dependencies that most people are likely to already have installed.
