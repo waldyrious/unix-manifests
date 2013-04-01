@@ -28,7 +28,7 @@ of the other architectures' manifest files.
 
 > > _**Debian**_<sup>[2]</sup>: [debian-6.0.6-i386-DVD-1.list][debian] ![.gz][archive]
 
-> > > Ubuntu<sup>[3]</sup> : [ubuntu-12.04.1-desktop-i386.manifest][ubuntu] ![.manifest][text]
+> > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.1-desktop-i386.manifest][ubuntu] ![.manifest][text]
 
 > > > > Mint<sup>[4]</sup>: [casper/filesystem.manifest][mint] ![.manifest][in-cd]
 
@@ -36,7 +36,7 @@ of the other architectures' manifest files.
 
 > > _**Slackware**_
 
-> > > OpenSUSE 
+> > > OpenSUSE: [download.opensuse.org][opensuse] (TODO: find the manifest and replace the link)
 
 > > _**Arch**_
 
@@ -73,6 +73,7 @@ of the other architectures' manifest files.
 [mint]: http://www.linuxmint.com/edition.php?id=103
 [mint-bt]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
 [knoppix]: http://debian-knoppix.alioth.debian.org/Packages.gz
+[opensuse]: http://download.opensuse.org/
 
 [logo]: https://raw.github.com/waldir/unix-manifests/master/unix-manifests.png
 [text]: http://upload.wikimedia.org/wikipedia/commons/7/75/Page_white.png "text file"
