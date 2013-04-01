@@ -6,7 +6,8 @@ The goal of this project is to maintain an updated list of [manifest files](http
 
 This list can be useful for various purposes; for example:
 * as a starting point for the development of a multi-distibution package search app,
-  such as [this one](http://packages.slackware.com/) (only for Slackware).
+  such as these ones, specific for their distros: [Ubuntu](http://packages.ubuntu.com/),
+  [Slackware](http://packages.slackware.com/)...
 * as a resource for dependency management:
   a software project can use it to calculate the (default) install base of a given software package
   so that it can choose the dependencies that most people are likely to already have installed.
