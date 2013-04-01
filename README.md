@@ -5,9 +5,7 @@ The goal of this project is to maintain an updated list of [manifest files](http
 (lists of all packages included in the distribution<sup>[1]</sup>) for popular Unix-like operating systems.
 
 This list can be useful for various purposes; for example:
-* as a starting point for the development of a multi-distibution package search app,
-  such as these ones, specific for their distros: [Ubuntu](http://packages.ubuntu.com/),
-  [Slackware](http://packages.slackware.com/)...
+* as a starting point for the development of a multi-distibution package search app.
 * as a resource for dependency management:
   a software project can use it to calculate the (default) install base of a given software package
   so that it can choose the dependencies that most people are likely to already have installed.
@@ -31,15 +29,20 @@ of the other architectures' manifest files.
 
 > > _**Debian**_<sup>[2]</sup>: [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive]
 
-> > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text]
+> > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
+                            [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]
 
-> > > > Mint<sup>[4]</sup>: [casper/filesystem.manifest][mint] ![.manifest][in-cd]
+> > > > Mint<sup>[4]</sup>: [casper/filesystem.manifest][mint] ![.manifest][in-cd] /
+                            [packages.linuxmint.com](http://packages.linuxmint.com/) ![search] ;
+                            [community.linuxmint.com/software/search/](http://community.linuxmint.com/software/search/) ![search]
 
 > > > Knoppix: [Packages.gz][knoppix] ![.gz][archive]
 
-> > _**Slackware**_: [PACKAGES.TXT][slackware] ![.txt][text]
+> > _**Slackware**_: [PACKAGES.TXT][slackware] ![.txt][text] /
+                     [packages.slackware.com](http://packages.slackware.com/) ![search]
 
-> > > OpenSUSE: [download.opensuse.org][opensuse] (TODO: find the manifest and replace the link)
+> > > OpenSUSE: [download.opensuse.org][opensuse] /
+                [software.opensuse.org/search](http://software.opensuse.org/search) ![search]
 
 > > _**Arch**_
 
@@ -71,7 +74,7 @@ of the other architectures' manifest files.
 
 > > > OpenBSD
 
-[debian]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.7-i386-DVD-1.list.gz
+[debian]: http://cdimage.debian.org/debian-cd/current/i386/list-dvd/debian-6.0.7-i386-DVD-1.list.gz 
 [ubuntu]: http://releases.ubuntu.com/precise/ubuntu-12.04.2-desktop-i386.manifest
 [mint]: http://www.linuxmint.com/edition.php?id=103
 [mint-bt]: torrents.linuxmint.com/torrents/linuxmint-13-mate-dvd-32bit.iso.torrent
@@ -83,6 +86,7 @@ of the other architectures' manifest files.
 [text]: http://upload.wikimedia.org/wikipedia/commons/7/75/Page_white.png "text file"
 [archive]: http://upload.wikimedia.org/wikipedia/commons/d/d2/Page_white_zip.png "compressed text file"
 [in-cd]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Page_white_cd.png "cd image"
+[search]: http://upload.wikimedia.org/wikipedia/commons/7/79/Magnifier.png
 
 ----
 1. [These commands](http://www.datadisk.co.uk/html_docs/misc/unix_commands.htm#patch) could potentially work
