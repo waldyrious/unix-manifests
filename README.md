@@ -9,8 +9,8 @@ This list can be useful for various purposes; for example:
 * as a resource for dependency management:
   a software project can use it to calculate the (default) install base of a given software package
   so that it can choose the dependencies that most people are likely to already have installed.
-* as a starting point for standardization efforts regarding distribution manifest files,
-  leading to greater transparency and user-friendliness.
+* as a starting point for [standardization efforts](https://lca2013.linux.org.au/wiki/Miniconfs/CrossDistributionLinux)
+  regarding distribution manifest files, leading to greater transparency and user-friendliness.
 * as a tool for choosing a distribution that commits to support/maintain the packages one is interested in.
 
 For now, only the i386 architecture is included;
