@@ -27,43 +27,47 @@ of the other architectures' manifest files.
 
 > ### **Linux**
 
+> > _**Arch**_
+
 > > _**Debian**_<sup>[2]</sup>: [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive] /
                                 [debian.org/distrib/packages#search_packages][debian-search] ![search]
+
+> > > Knoppix: [Packages.gz][knoppix] ![.gz][archive]
 
 > > > Ubuntu<sup>[3]</sup>: [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
                             [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]
 
+> > > > Elementary OS
+
 > > > > Mint<sup>[4]</sup>: [casper/filesystem.manifest][mint] ![.manifest][in-cd] /
                             [packages.linuxmint.com][mint-search1] ![search] ;
                             [community.linuxmint.com/software/search/][mint-search2] ![search]
+                            
+> > _**Gentoo**_
 
-> > > Knoppix: [Packages.gz][knoppix] ![.gz][archive]
+> > > Chromium OS / Chrome OS<sup>[5]</sup>
+
+> > _**Puppy**_
+
+> > _**Red Hat**_
+
+> > > Fedora
+
+> > > RHEL
+
+> > > > CentOS
+
+> > > Mandrake/Mandriva
+
+> > > > Mageia
+
+> > > > PCLinuxOS
 
 > > _**Slackware**_: [PACKAGES.TXT][slackware] ![.txt][text] /
                      [packages.slackware.com](http://packages.slackware.com/) ![search]
 
 > > > OpenSUSE: [download.opensuse.org][opensuse] /
                 [software.opensuse.org/search](http://software.opensuse.org/search) ![search]
-
-> > _**Arch**_
-
-> > _**RedHat**_
-
-> > > Fedora 
-
-> > > > RHEL 
-
-> > > CentOS 
-
-> > > Mandrake/Mandriva 
-
-> > > > PCLinuxOS 
-
-> > > > Mageia 
-
-> > _**Gentoo**_
-
-> > _**Puppy**_
 
 > ### **BSD** 
 
@@ -112,3 +116,5 @@ of the other architectures' manifest files.
    Probably the final list is contained in the (binary) file `casper/filesystem.manifest-desktop` instead.
    Can anyone confirm this? Also, how does that list relate to
    [this one](http://packages.linuxmint.com/list.php?release=Nadia#upstream)?
+5. See [this](http://superuser.com/a/371528/112593)
+   and [this](http://www.zdnet.com/the-secret-origins-of-googles-chrome-os-7000012215/)
