@@ -95,7 +95,7 @@ of the other architectures' manifest files.
 [slackware]: http://mirrors.slackware.com/slackware/slackware-current/PACKAGES.TXT
 [opensuse]: http://download.opensuse.org/
 
-[logo]: https://raw.github.com/waldir/unix-manifests/master/unix-manifests.png
+[logo]: https://raw.github.com/waldyrious/unix-manifests/master/unix-manifests.png
 [text]: http://upload.wikimedia.org/wikipedia/commons/7/75/Page_white.png "text file"
 [archive]: http://upload.wikimedia.org/wikipedia/commons/d/d2/Page_white_zip.png "compressed text file"
 [in-cd]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Page_white_cd.png "cd image"
