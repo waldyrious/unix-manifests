@@ -2,7 +2,7 @@ unix-manifests
 ===============
 
 The goal of this project is to maintain an updated list of [manifest files](http://en.wikipedia.org/wiki/Manifest_file)
-(lists of all packages included in the distribution[1]) for popular Unix-like operating systems.
+(lists of all packages included in the distribution<sup>[1]</sup>) for popular Unix-like operating systems.
 
 This list can be useful for various purposes; for example:
 * as a starting point for the development of a multi-distibution package search app.
@@ -29,26 +29,26 @@ of the other architectures' manifest files.
 
 > > _**Arch**_
 
-> > _**Debian**_[2]:
+> > _**Debian**_<sup>[2]</sup>:
     [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive] /
               [debian.org/distrib/packages#search_packages][debian-search] ![search]
 
 > > > Knoppix: [Packages.gz][knoppix] ![.gz][archive]
 
-> > > Ubuntu[3]:
+> > > Ubuntu<sup>[3]</sup>:
       [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
                 [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]
 
 > > > > Elementary OS
 
-> > > > Mint[4]:
+> > > > Mint<sup>[4]</sup>:
         [casper/filesystem.manifest][mint] ![.manifest][in-cd] /
                   [packages.linuxmint.com][mint-search1] ![search] ;
                   [community.linuxmint.com/software/search/][mint-search2] ![search]
                             
 > > _**Gentoo**_
 
-> > > Chromium OS / Chrome OS[5]
+> > > Chromium OS / Chrome OS<sup>[5]</sup>
 
 > > _**Puppy**_
 
