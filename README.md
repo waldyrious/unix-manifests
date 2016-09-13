@@ -30,21 +30,21 @@ of the other architectures' manifest files.
 > > _**Arch**_
 
 > > _**Debian**_<sup>[2]</sup>:
-    <sup><sub>[debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive] /
-              [debian.org/distrib/packages#search_packages][debian-search] ![search]</sub></sup>
+    [debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive] /
+              [debian.org/distrib/packages#search_packages][debian-search] ![search]
 
-> > > Knoppix: <sup><sub>[Packages.gz][knoppix] ![.gz][archive]</sub></sup>
+> > > Knoppix: [Packages.gz][knoppix] ![.gz][archive]
 
 > > > Ubuntu<sup>[3]</sup>:
-      <sup><sub>[ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
-                [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]</sub></sup>
+      [ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
+                [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]
 
 > > > > Elementary OS
 
 > > > > Mint<sup>[4]</sup>:
-        <sup><sub>[casper/filesystem.manifest][mint] ![.manifest][in-cd] /
+        [casper/filesystem.manifest][mint] ![.manifest][in-cd] /
                   [packages.linuxmint.com][mint-search1] ![search] ;
-                  [community.linuxmint.com/software/search/][mint-search2] ![search]</sub></sup>
+                  [community.linuxmint.com/software/search/][mint-search2] ![search]
                             
 > > _**Gentoo**_
 
@@ -67,12 +67,12 @@ of the other architectures' manifest files.
 > > > > PCLinuxOS
 
 > > _**Slackware**_:
-    <sup><sub>[PACKAGES.TXT][slackware] ![.txt][text] /
-              [packages.slackware.com](http://packages.slackware.com/) ![search]</sub></sup>
+    [PACKAGES.TXT][slackware] ![.txt][text] /
+              [packages.slackware.com](http://packages.slackware.com/) ![search]
 
 > > > OpenSUSE:
-      <sup><sub>[download.opensuse.org][opensuse] /
-                [software.opensuse.org/search](http://software.opensuse.org/search) ![search]</sub></sup>
+      [download.opensuse.org][opensuse] /
+                [software.opensuse.org/search](http://software.opensuse.org/search) ![search]
 
 > ### **BSD** 
 
