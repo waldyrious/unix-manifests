@@ -21,7 +21,11 @@ of the other architectures' manifest files.
 * ![text][]: text file
 * ![archive][]: compressed text file (download and uncompress)
 * ![in-cd][]: ISO CD image (donwload and mount/extract; path of manifest file is on the link text)  
-<sub>[Images from Silk icon set: www.famfamfam.com/lab/icons/silk/ (CC-BY)]</sub>
+
+# <sub>:
+	[Images from Silk icon set: www.famfamfam.com/lab/icons/silk/ (CC-BY)]
+# </sub>:
+	
 
 ### **UNIX**
 
@@ -30,21 +34,37 @@ of the other architectures' manifest files.
 > > _**Arch**_
 
 > > _**Debian**_<sup>[2]</sup>:
-    <sup><sub>[debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive] /
-              [debian.org/distrib/packages#search_packages][debian-search] ![search]</sub></sup>
+    <sup>
+# <sub>:
+	[debian-6.0.7-i386-DVD-1.list][debian] ![.gz][archive] /
+              [debian.org/distrib/packages#search_packages][debian-search] ![search]
+# </sub>:
+	</sup>
 
-> > > Knoppix: <sup><sub>[Packages.gz][knoppix] ![.gz][archive]</sub></sup>
+> > > Knoppix: <sup>
+# <sub>:
+	[Packages.gz][knoppix] ![.gz][archive]
+# </sub>:
+	</sup>
 
 > > > Ubuntu<sup>[3]</sup>:
-      <sup><sub>[ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
-                [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]</sub></sup>
+      <sup>
+# <sub>:
+	[ubuntu-12.04.2-desktop-i386.manifest][ubuntu] ![.manifest][text] /
+                [packages.ubuntu.com](http://packages.ubuntu.com/) ![search]
+# </sub>:
+	</sup>
 
 > > > > Elementary OS
 
 > > > > Mint<sup>[4]</sup>:
-        <sup><sub>[casper/filesystem.manifest][mint] ![.manifest][in-cd] /
+        <sup>
+# <sub>:
+	[casper/filesystem.manifest][mint] ![.manifest][in-cd] /
                   [packages.linuxmint.com][mint-search1] ![search] ;
-                  [community.linuxmint.com/software/search/][mint-search2] ![search]</sub></sup>
+                  [community.linuxmint.com/software/search/][mint-search2] ![search]
+# </sub>:
+	</sup>
                             
 > > _**Gentoo**_
 
@@ -67,12 +87,20 @@ of the other architectures' manifest files.
 > > > > PCLinuxOS
 
 > > _**Slackware**_:
-    <sup><sub>[PACKAGES.TXT][slackware] ![.txt][text] /
-              [packages.slackware.com](http://packages.slackware.com/) ![search]</sub></sup>
+    <sup>
+# <sub>:
+	[PACKAGES.TXT][slackware] ![.txt][text] /
+              [packages.slackware.com](http://packages.slackware.com/) ![search]
+# </sub>:
+	</sup>
 
 > > > OpenSUSE:
-      <sup><sub>[download.opensuse.org][opensuse] /
-                [software.opensuse.org/search](http://software.opensuse.org/search) ![search]</sub></sup>
+      <sup>
+# <sub>:
+	[download.opensuse.org][opensuse] /
+                [software.opensuse.org/search](http://software.opensuse.org/search) ![search]
+# </sub>:
+	</sup>
 
 > ### **BSD** 
 
